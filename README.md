@@ -30,10 +30,10 @@ The Mass Mail Dispatcher project uses the following dependencies:
 --->>> Technology Stack
 - The Mass Mail Dispatcher project uses the following technologies:
 
- • HTML
- • CSS
- • JavaScript
- • EmailJS API
+ • HTML<br>
+ • CSS<br>
+ • JavaScript<br>
+ • EmailJS API<br>
 
 ---------------------------------------------------------------------------------------------
 Project By - " Chinthan B"
